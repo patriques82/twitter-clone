@@ -1,4 +1,4 @@
 function App() {
     const text = "Hello"
-    return <h1>{text}</h1>
+    return <button>text</button>
 }
