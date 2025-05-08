@@ -1,3 +1,4 @@
 function App() {
-    return <h1>Hello</h1>
+    const text = "Hello"
+    return <h1>{text}</h1>
 }
